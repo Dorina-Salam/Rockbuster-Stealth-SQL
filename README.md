@@ -1,5 +1,4 @@
 # Rockbuster-Stealth-SQL
-![Picture of film clapper](/Users/dorinasalam/Desktop/Film.png)
 <img width="468" alt="Film" src="https://github.com/Dorina-Salam/Rockbuster-Stealth-SQL/assets/146798229/0c90cdb6-2185-4611-a7b8-e4ddd3b41471">
 
 ## Description
